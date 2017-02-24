@@ -1,2 +1,3 @@
 # hello-world
-Initial training
+
+Initial training. Get up to speed with github workflows.
